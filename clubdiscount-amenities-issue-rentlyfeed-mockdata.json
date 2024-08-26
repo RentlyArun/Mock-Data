@@ -1,16 +1,18 @@
 [
-    { "tag": "DUP002",
-  "heading": " ",
-  "address": "3820 Midway Dr, San Diego, CA 92110, USA",
-  "rent":2000,
-  "bedrooms":4,
-  "bathrooms":1,
-  "pets": "True",
-  "size":1350,
-  "images":[],
-  "amenities":["fitness center", "Fitness Center", "fITNESS cENTER", "FiTnEsS cEnTeR", "TESTING", "custom amenities", "WALKING AREA", "Walk", "laptop"," “],
-  "lockbox": "7878789",
-  "lockbox_instruction": "Main door",
-  "prelease": false,
-  "active": true}
+    { 
+      "tag": "DUP002",
+      "heading": " ",
+      "address": "3820 Midway Dr, San Diego, CA 92110, USA",
+      "rent":2000,
+      "bedrooms":4,
+      "bathrooms":1,
+      "pets": "True",
+      "size":1350,
+      "images":[],
+      "amenities":["fitness center", "Fitness Center", "fITNESS cENTER", "FiTnEsS cEnTeR", "TESTING", "custom amenities", "WALKING AREA", "Walk", "laptop"," “],
+      "lockbox": "7878789",
+      "lockbox_instruction": "Main door",
+      "prelease": false,
+      "active": true
+    }
 ]
