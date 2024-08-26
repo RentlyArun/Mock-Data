@@ -9,7 +9,7 @@
         "pets": "True",
         "size":1350,
         "images":[],
-        "amenities":["fitness center", "Fitness Center", "fITNESS cENTER", "FiTnEsS cEnTeR", "TESTING", "custom amenities", "WALKING AREA", "Walk", "laptop"," "],
+        "amenities":["fitness center", "Fitness Center", "fITNESS cENTER", "FiTnEsS cEnTeR", "TESTING", "custom amenities", "WALKING AREA", "Walk", "laptop","toplap", " "],
         "lockbox": "7878789",
         "lockbox_instruction": "Main door",
         "prelease": false,
