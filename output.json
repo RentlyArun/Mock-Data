@@ -32833,8 +32833,8 @@
     },
     "NaN": {
         "property_code": "p1772859",
-        "voyager_code": NaN,
-        "voyager_id": NaN,
+        "voyager_code": "NaN",
+        "voyager_id": "NaN",
         "name": "TEST 95151 Gladiolus",
         "address": "123 test, test, TX, 12345",
         "property_id": 1804942
