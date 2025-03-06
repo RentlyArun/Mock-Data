@@ -1,0 +1,33 @@
+{
+  "apartmentAvailabilities": [
+    {
+      "propertyId": 1698319,
+      "voyagerPropertyId": 7439,
+      "voyagerPropertyCode": "nsh00013",
+      "floorplanId": 4932822,
+      "floorplanName": "3/2 1392 sqft",
+      "apartmentId": 37066351,
+      "apartmentName": "NSH00013",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1392,
+      "sqM": 0,
+      "minimumRent": 2145,
+      "maximumRent": 2145,
+      "deposit": 0,
+      "applyOnlineURL": "https://7608-s-swift-rd-rentcafewebsite.securecafe.com/onlineleasing/7608-s-swift-rd/oleapplication.aspx?stepname=RentalOptions&myOlePropertyId=1698319&FloorPlanID=4932822&UnitID=37066351&header=1",
+      "unitImageURLs": "",
+      "unitImageURLsArray": [],
+      "unitImageAltText": "",
+      "specials": "Special offers",
+      "amenities": "",
+      "availableDate": "11/11/2024",
+      "publishDate": "",
+      "delayApplicationInHours": "",
+      "unitStatus": "Vacant Unrented Ready",
+      "unitEmbedVideo": ""
+    }
+  ],
+  "errorCode": 200,
+  "errorMessage": ""
+}

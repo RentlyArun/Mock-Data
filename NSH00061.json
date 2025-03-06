@@ -1,0 +1,33 @@
+{
+  "apartmentAvailabilities": [
+    {
+      "propertyId": 1844183,
+      "voyagerPropertyId": 8260,
+      "voyagerPropertyCode": "nsh00061",
+      "floorplanId": 5351917,
+      "floorplanName": "3/2 1455 sqft",
+      "apartmentId": 41444542,
+      "apartmentName": "NSH00061",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1455,
+      "sqM": 0,
+      "minimumRent": 1995,
+      "maximumRent": 1995,
+      "deposit": 0,
+      "applyOnlineURL": "https://848-big-bend-court-rentcafewebsite.securecafe.com/onlineleasing/848-big-bend-court/oleapplication.aspx?stepname=RentalOptions&myOlePropertyId=1844183&FloorPlanID=5351917&UnitID=41444542&header=1",
+      "unitImageURLs": "",
+      "unitImageURLsArray": [],
+      "unitImageAltText": "",
+      "specials": "This will output a properly formatted string of offers, ensuring the total length does not exceed 600 characters. You can modify the offers_list with your own offers.Would you like me to tweak it further, maybe dynamically generating more offers? This will output a properly formatted string of offers, ensuring the total length does not exceed 600 characters. You can modify the offers_list with your own offers. Would you like me to tweak it further, maybe dynamically generating more offers?",
+      "amenities": "",
+      "availableDate": "09/10/2024",
+      "publishDate": "",
+      "delayApplicationInHours": "",
+      "unitStatus": "Vacant Unrented Ready",
+      "unitEmbedVideo": ""
+    }
+  ],
+  "errorCode": 200,
+  "errorMessage": ""
+}

@@ -1,0 +1,33 @@
+{
+  "apartmentAvailabilities": [
+    {
+      "propertyId": 1844187,
+      "voyagerPropertyId": 8265,
+      "voyagerPropertyCode": "nsh00063",
+      "floorplanId": 5351921,
+      "floorplanName": "3/2 1455 sqft",
+      "apartmentId": 41444544,
+      "apartmentName": "NSH00063",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1455,
+      "sqM": 0,
+      "minimumRent": 1995,
+      "maximumRent": 1995,
+      "deposit": 0,
+      "applyOnlineURL": "https://852-big-bend-court-rentcafewebsite.securecafe.com/onlineleasing/852-big-bend-court/oleapplication.aspx?stepname=RentalOptions&myOlePropertyId=1844187&FloorPlanID=5351921&UnitID=41444544&header=1",
+      "unitImageURLs": "",
+      "unitImageURLsArray": [],
+      "unitImageAltText": "",
+      "specials": "Buy 1 Get 1 Free^20% Off on Electronics^Free Shipping on Orders Above $50^Flash Sale: Up to 50% Off^Weekend Special: Extra 10% Discount^Limited Time Offer: Free Gift on $100+ Purchase^Exclusive Deal: $10 Cashback on $100 Spent^Buy 1 Get 1 Free^20% Off on Electronics^Free Shipping on Orders Above $50^Flash Sale: Up to 50% Off^Weekend Special: Extra 10% Discount^Limited Time Offer: Free Gift on $100+ Purchase^Exclusive Deal: $10 Cashback on $100 Spent^Buy 1 Get 1 Free^20% Off on Electronics^Free Shipping on Orders Above $50^Flash Sale: Up to 50% Off^Weekend Special: Extra 10% Discount^Limited Time Offer: Free Gift on $100+ Purchase^Exclusive Deal: $10 Cashback on $100 Spent^Buy 1 Get 1 Free^20% Off on Electronics^Free Shipping on Orders Above $50^Flash Sale: Up to 50% Off^Weekend Special: Extra 10% Discount^Limited Time Offer: Free Gift on $100+ Purchase^Exclusive Deal: $10 Cashback on $100 Spent",
+      "amenities": "",
+      "availableDate": "09/10/2024",
+      "publishDate": "",
+      "delayApplicationInHours": "",
+      "unitStatus": "Vacant Unrented Ready",
+      "unitEmbedVideo": ""
+    }
+  ],
+  "errorCode": 200,
+  "errorMessage": ""
+}

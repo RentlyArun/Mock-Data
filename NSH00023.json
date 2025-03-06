@@ -1,0 +1,33 @@
+{
+  "apartmentAvailabilities": [
+    {
+      "propertyId": 1715453,
+      "voyagerPropertyId": 7504,
+      "voyagerPropertyCode": "nsh00023",
+      "floorplanId": 4969671,
+      "floorplanName": "3/2 2326 sqft",
+      "apartmentId": 37823057,
+      "apartmentName": "NSH00023",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1394,
+      "sqM": 0,
+      "minimumRent": 2046,
+      "maximumRent": 2046,
+      "deposit": 0,
+      "applyOnlineURL": "https://brandywinehomesusa.securecafe.com/onlineleasing/1777-antebellum-dr/oleapplication.aspx?stepname=RentalOptions&myOlePropertyId=1715453&FloorPlanID=4969671&UnitID=37823057&header=1",
+      "unitImageURLs": "",
+      "unitImageURLsArray": [],
+      "unitImageAltText": "",
+      "specials": "I am ChatGPT, an AI language model designed to assist, create, and solve problems across various domains, including programming, writing, learning, and troubleshooting, always aiming to provide insightful and relevant responses while adapting to different tones and contexts to enhance conversations and workflows, ensuring clarity, engagement, and efficiency in every interaction by leveraging vast knowledge and contextual understanding to generate meaningful and coherent responses that align with user needs I am ChatGPT, an AI language model designed to assist, create, and solve problems across various domains, including programming, writing, learning, and troubleshooting, always aiming to provide insightful and relevant responses while adapting to different tones and contexts to enhance conversations and workflows, ensuring clarity, engagement, and efficiency in every interaction by leveraging vast knowledge and contextual understanding to generate meaningful and coherent responses that align with user needs",
+      "amenities": "",
+      "availableDate": "01/31/2025",
+      "publishDate": "",
+      "delayApplicationInHours": "",
+      "unitStatus": "Vacant Unrented Not Ready",
+      "unitEmbedVideo": ""
+    }
+  ],
+  "errorCode": 200,
+  "errorMessage": ""
+}
